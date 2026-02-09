@@ -30,3 +30,12 @@ repo shows how I set up my project.
 1. Now what?
 
 ![Debugger with Jest](./with_jest.png)
+
+## Notes
+
+Here is a
+[Stack Overflow question](https://stackoverflow.com/questions/79883201/how-do-you-get-node-inspector-to-pick-up-source-files-and-break-on-breakpoints)
+that I asked about this, with no response and 1 close vote as of 02/09/26.
+
+Here is a [GitHub issue](https://github.com/jestjs/jest/issues/15955) that I
+opened against Jest about this.
