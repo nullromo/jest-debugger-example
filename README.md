@@ -16,7 +16,7 @@ repo shows how I set up my project.
 
 1. Open Google Chrome and go to `chrome://inspect/#devices`.
 1. Click on "Open dedicated DevTools for Node".
-1. Run the program with `node --inspect-brk
+1. Run the program with `node --inspect-brk run.ts`
 1. Wait a few seconds
 1. Boom, the debugger window picks up the code and everything is good to go.
 
