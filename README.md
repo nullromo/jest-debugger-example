@@ -37,6 +37,8 @@ I also tried adding `--require ts-node/register` to the command (after `npm i --
 
 <img width="1746" height="653" alt="image" src="https://github.com/user-attachments/assets/b2ce3d74-5ac4-4668-8cc7-6cbc869906d4" />
 
+I also added `"soruceMap": true` to my `tsconfig.json`, but that didn't seem to have any effect.
+
 ## Notes
 
 Here is a
