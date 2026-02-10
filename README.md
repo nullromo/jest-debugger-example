@@ -31,6 +31,12 @@ repo shows how I set up my project.
 
 ![Debugger with Jest](./with_jest.png)
 
+Note that the only file picked up in the left-hand side is `jest.js`. **The debugger does not know about any of my source files**.
+
+I also tried adding `--require ts-node/register` to the command (after `npm i --save-dev ts-node`). After that, it picks up a bunch of files in `node_modules`, but none of my actual source files.
+
+<img width="1746" height="653" alt="image" src="https://github.com/user-attachments/assets/b2ce3d74-5ac4-4668-8cc7-6cbc869906d4" />
+
 ## Notes
 
 Here is a
